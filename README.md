@@ -1,16 +1,16 @@
 ![MasterHead](https://media3.giph5.com/media/oQe7T1DU0KJUux7oyr/giphy.gif?cid=790b76119c57bd4de4b5aef2f65271c327fd505b34977924&rid=giphy.gif&ct=g) 
 <h1 align="center">Hi 👋, I'm Abhishek Lahase</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Data Analyst and Developer from India</h3>
 <img align="right" alt="coding" width="600" src= "https://ardas-it.com/uploads/images/blogs/giph.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheklahase29&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheklahase29" /> </p>
 
-- 🔭 I’m currently working on **NFT Marketplace, Data Structures**
+- 🔭 I’m currently working on **Power BI , SQL**
 
-- 🌱 I’m currently learning **Blockchain, AWS**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://abhisheklahase29.github.io/MyPortfolio/](https://abhisheklahase29.github.io/MyPortfolio/)
 
-- 💬 Ask me about **C++, Android studio, Python, SQL**
+- 💬 Ask me about **C++, Power BI, Advanced Excel, Python, SQL**
 
 - 📫 How to reach me **abhilahase2900@gmail.com**
 
